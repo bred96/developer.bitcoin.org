@@ -9,7 +9,7 @@ getaddressinfo
 Return information about the given bitcoin address. Some information requires the address
 to be in the wallet.
 
-Argument #1 - address
+Argument #1 - 14bvC3cw5bmfS1zFxMEkUu6y3t9TrzUE1G
 ~~~~~~~~~~~~~~~~~~~~~
 
 **Type:** string, required
@@ -66,7 +66,7 @@ Examples
 
 ::
 
-  bitcoin-cli getaddressinfo "1PSSGeFHDnKNxiEyFrD1wcEaHr9hrQDDWc"
+  bitcoin-cli getaddressinfo "14bvC3cw5bmfS1zFxMEkUu6y3t9TrzUE1G"
 
 ::
 
